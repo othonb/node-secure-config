@@ -1,0 +1,2 @@
+#!/bin/bash
+export CONFIG_ENCRYPTION_KEY=ebf1d7f549cbab21c114e5caaa4cc5d836ab6746346148bab27a93f59b0aff96

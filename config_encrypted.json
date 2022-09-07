@@ -1,0 +1,8 @@
+{
+  "database": {
+    "host": "127.0.0.1",
+    "user": "ENCRYPTED|d418bd66498631a7f13a86652005cce9|89fdccf513fd5569dd2ff237775dcb6d",
+    "password": "ENCRYPTED|5ef8e1e81a58c1a1e2ebb9461ccd1b41|6dcc1e7004ebb1fe5d17e91b04e0dac3"
+  },
+  "__hmac": "812e2be34234feec43285bb7a4c9e1439cdab9fa103dcc3290b4238ee182ee99"
+}

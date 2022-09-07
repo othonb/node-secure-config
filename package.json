@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@tsmx/secure-config": "github:tsmx/secure-config"
+  }
+}

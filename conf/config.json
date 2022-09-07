@@ -1,0 +1,8 @@
+{
+  "database": {
+    "host": "ENCRYPTED|12303bfb6afb46baee22cd72a1819cdf|f4ee054e4c0558011357f1e829eb87f4",
+    "user": "ENCRYPTED|d418bd66498631a7f13a86652005cce9|89fdccf513fd5569dd2ff237775dcb6d",
+    "password": "ENCRYPTED|5ef8e1e81a58c1a1e2ebb9461ccd1b41|6dcc1e7004ebb1fe5d17e91b04e0dac3"
+  },
+  "__hmac": "f93083b15e8cef4590906d12cd594f6d9c684c6b73f61c9e2fad0aeaf0e3f43c"
+}
